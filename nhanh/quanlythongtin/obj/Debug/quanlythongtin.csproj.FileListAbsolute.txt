@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\bin\Debug\quanlythongtin.exe.config
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\bin\Debug\quanlythongtin.exe
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\bin\Debug\quanlythongtin.pdb
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.exe
+C:\Users\ASUS\source\repos\quanlythongtin\quanlythongtin\obj\Debug\quanlythongtin.pdb
