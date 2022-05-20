@@ -18,10 +18,6 @@ namespace quanlythongtin
         private String chuyenNghanh;
         private double diemTrungBinh;
         public SinhVien() { }
-
-
-
-
         public string layMaSV
         {
             get => maSinhVien;
@@ -57,10 +53,6 @@ namespace quanlythongtin
             get => chuyenNghanh;
             set => chuyenNghanh = value;
         }
-
-
-
-
 
         public void nhapThongTinsv()
         {
